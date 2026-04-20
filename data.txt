@@ -1,1 +1,2 @@
-yippe
+Average_DO: 3431.40
+Timestamp: 4
