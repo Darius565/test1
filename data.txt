@@ -1,2 +1,2 @@
-Average_DO: 2163.40
-Timestamp: 1313
+Average_DO: 2175.30
+Timestamp: 1328
